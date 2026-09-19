@@ -50,7 +50,7 @@ The dataset contains information such as:
 ## Project Files
 
 - `Unemployment_Analysis.ipynb` - Complete Python analysis
-- `CodeAlpha_Task_2_Unemployment_Analysis_Report.pdf` - Project report
+- `CodeAlpha_Task_2_UnemploymentAnalysis.pdf` - Project report
 - `README.md` - Project documentation
 
 ## Conclusion
